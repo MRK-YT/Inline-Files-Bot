@@ -1,5 +1,8 @@
 ## [Inline-Files-Bot](https://github.com/CyberBoyAyush/Inline-Files-Bot)
 
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 * Index channel/group files for inline search.
 * When you going to post file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode.
 * Supports document, video and audio file formats with caption.
