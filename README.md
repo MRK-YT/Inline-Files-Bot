@@ -1,6 +1,6 @@
 ## [Inline-Files-Bot](https://github.com/CyberBoyAyush/Inline-Files-Bot)
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://telegram.me/cyberboyayush)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 * Index channel/group files for inline search.
